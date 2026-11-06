@@ -1,0 +1,1 @@
+Dataset is not bundled in this ZIP. Download the IBM Telco Customer Churn CSV from:\nhttps://raw.githubusercontent.com/IBM/telco-customer-churn-on-icp4d/master/data/Telco-Customer-Churn.csv\nSave as data/Telco-Customer-Churn.csv. The notebook also attempts automatic download.\n

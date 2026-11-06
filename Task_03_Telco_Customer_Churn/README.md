@@ -7,8 +7,6 @@ Predict telecom customer churn and compare Random Forest and XGBoost. The assign
 IBM Telco Customer Churn CSV:
 https://raw.githubusercontent.com/IBM/telco-customer-churn-on-icp4d/master/data/Telco-Customer-Churn.csv
 
-The notebook attempts automatic download. If unavailable, download the CSV manually and save as `data/Telco-Customer-Churn.csv`. **The CSV is not included in this ZIP.**
-
 ## Structure
 ```text
 Datheon_Task3_Telco_Customer_Churn/
@@ -43,6 +41,3 @@ Open the notebook and use **Kernel → Restart & Run All**.
 
 ## Outputs created after notebook execution
 `outputs/model_metrics.csv`, `outputs/test_predictions.csv`, `outputs/feature_importance.csv`, `outputs/training_oof_threshold_analysis.csv`.
-
-## Notes
-Fixed random seed 42 is used. Runtime and results depend on environment and package versions. Feature importance is not causal. No performance score is claimed before execution.
